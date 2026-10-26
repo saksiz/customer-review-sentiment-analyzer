@@ -9,6 +9,9 @@ The project answers one question from a **prompt-engineering** point of view:
 > How much do prompting techniques on a Hugging Face LLM improve sentiment + feature extraction,
 > compared with a classical TF-IDF baseline and a fine-tuned DistilBERT?
 
+ Open Live app : https://customer-review-sentiment-analyzer-hyauvwvapzeqwwggukh9es.streamlit.app/
+
+
 ## Three ways to solve the same task
 
 | Approach | Where | Training needed | Gives features? |
